@@ -1,3 +1,3 @@
 # Demo
 
-this is a deno for github practices.
+this is a demo for github practices.
